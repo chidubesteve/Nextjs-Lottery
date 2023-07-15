@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 
 
 ![App](img/readme-app.png)
+=======
+<<<<<<< HEAD
+
+>>>>>>> 15c721f9af68611d09162107215daecbeeb62fa9
 
 [Example App here!](https://fancy-dream-3458.on.fleek.co/)
 [Example App on IPFS here!](ipfs://Qme4KacFx21y6pYuTC6veAU2usryXB3fNWqLkX3a2hMvDe)
@@ -18,18 +23,18 @@ IPFS
 - [Getting Started](#getting-started)
   - [Requirements](#requirements)
   - [Quickstart](#quickstart)
+<<<<<<< HEAD
   - [Typescript](#typescript)
+=======
+>>>>>>> 15c721f9af68611d09162107215daecbeeb62fa9
   - [Formatting in VSCode](#formatting-in-vscode)
 - [Usage](#usage)
   - [Testing](#testing)
 - [Deploying to IPFS](#deploying-to-ipfs)
 - [Deploy to IPFS using Fleek](#deploy-to-ipfs-using-fleek)
 - [Linting](#linting)
-- [Thank you!](#thank-you)
 
-This project is a part of the Hardhat FreeCodeCamp video.
 
-Video coming soon...
 
 # Getting Started
 
@@ -48,20 +53,29 @@ Video coming soon...
 ## Quickstart
 
 ```
+<<<<<<< HEAD
 git clone https://github.com/chidubesteve/Nextjs-Lottery.git
+=======
+git clone https://github.com/chidubesteve/nextjs-Lottery.git
+>>>>>>> 15c721f9af68611d09162107215daecbeeb62fa9
 cd nextjs-smartcontract-lottery-fcc
 yarn
 yarn dev
+or
+npm i
+npm run dev
 ```
 
-## Typescript
 
+<<<<<<< HEAD
 If you want to get to typescript and you cloned the javascript version, just run:
 
 ```
 git checkout typescript
 ```
 
+=======
+>>>>>>> 15c721f9af68611d09162107215daecbeeb62fa9
 
 ## Formatting in VSCode
 
@@ -83,13 +97,16 @@ To have VSCode extension prettier auto-format `.jsx` and `.tsx`, add the followi
 > In a different terminal / command line
 
 ```
+<<<<<<< HEAD
 git clone https://github.com/chidubesteve/Nextjs-Lottery.git
+=======
+git clone https://github.com/chidubestev/nextjs-Lottery.git
+>>>>>>> 15c721f9af68611d09162107215daecbeeb62fa9
 cd hardhat-fund-me-fcc
 yarn 
 yarn hardhat node
 ```
 
-> You can read more about how to use that repo from its [README.md](https://github.com/PatrickAlphaC/hardhat-fund-me-fcc/blob/main/README.md)
 
 
 2. Add hardhat network to your metamask/wallet
@@ -167,5 +184,12 @@ yarn lint
 ```
 
 
+<<<<<<< HEAD
 # Thank you!
 
+=======
+=======
+# Nextjs-Lottery
+Decentralized, autonomous Nextjs lottery
+>>>>>>> 40b23e731685efb09d0ba5e0f23661d21387a14d
+>>>>>>> 15c721f9af68611d09162107215daecbeeb62fa9
