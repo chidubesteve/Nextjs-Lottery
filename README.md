@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 [Example App here!](https://fancy-dream-3458.on.fleek.co/)
@@ -156,3 +157,7 @@ yarn lint
 ```
 
 
+=======
+# Nextjs-Lottery
+Decentralized, autonomous Nextjs lottery
+>>>>>>> 40b23e731685efb09d0ba5e0f23661d21387a14d
