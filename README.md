@@ -1,17 +1,10 @@
-<<<<<<< HEAD
 
-<<<<<<< HEAD
-<<<<<<< HEAD
+# Nextjs-Lottery
+Decentralized, autonomous Nextjs lottery
 
 ![App](img/readme-app.png)
-=======
-<<<<<<< HEAD
 
->>>>>>> 15c721f9af68611d09162107215daecbeeb62fa9
-=======
->>>>>>> 15c721f9af68611d09162107215daecbeeb62fa9
-=======
->>>>>>> 15c721f9af68611d09162107215daecbeeb62fa9
+
 
 [Example App here!](https://fancy-dream-3458.on.fleek.co/)
 [Example App on IPFS here!](ipfs://Qme4KacFx21y6pYuTC6veAU2usryXB3fNWqLkX3a2hMvDe)
@@ -29,16 +22,6 @@ IPFS
 - [Getting Started](#getting-started)
   - [Requirements](#requirements)
   - [Quickstart](#quickstart)
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-  - [Typescript](#typescript)
-=======
->>>>>>> 15c721f9af68611d09162107215daecbeeb62fa9
-=======
->>>>>>> 15c721f9af68611d09162107215daecbeeb62fa9
-=======
->>>>>>> 15c721f9af68611d09162107215daecbeeb62fa9
   - [Formatting in VSCode](#formatting-in-vscode)
 - [Usage](#usage)
   - [Testing](#testing)
@@ -65,19 +48,8 @@ IPFS
 ## Quickstart
 
 ```
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 git clone https://github.com/chidubesteve/Nextjs-Lottery.git
-=======
-git clone https://github.com/chidubesteve/nextjs-Lottery.git
->>>>>>> 15c721f9af68611d09162107215daecbeeb62fa9
-=======
-git clone https://github.com/chidubesteve/nextjs-Lottery.git
->>>>>>> 15c721f9af68611d09162107215daecbeeb62fa9
-=======
-git clone https://github.com/chidubesteve/nextjs-Lottery.git
->>>>>>> 15c721f9af68611d09162107215daecbeeb62fa9
 cd nextjs-smartcontract-lottery-fcc
 yarn
 yarn dev
@@ -86,22 +58,6 @@ npm i
 npm run dev
 ```
 
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-If you want to get to typescript and you cloned the javascript version, just run:
-
-```
-git checkout typescript
-```
-
-=======
->>>>>>> 15c721f9af68611d09162107215daecbeeb62fa9
-=======
->>>>>>> 15c721f9af68611d09162107215daecbeeb62fa9
-=======
->>>>>>> 15c721f9af68611d09162107215daecbeeb62fa9
 
 ## Formatting in VSCode
 
@@ -123,19 +79,8 @@ To have VSCode extension prettier auto-format `.jsx` and `.tsx`, add the followi
 > In a different terminal / command line
 
 ```
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-git clone https://github.com/chidubesteve/Nextjs-Lottery.git
-=======
+
 git clone https://github.com/chidubestev/nextjs-Lottery.git
->>>>>>> 15c721f9af68611d09162107215daecbeeb62fa9
-=======
-git clone https://github.com/chidubestev/nextjs-Lottery.git
->>>>>>> 15c721f9af68611d09162107215daecbeeb62fa9
-=======
-git clone https://github.com/chidubestev/nextjs-Lottery.git
->>>>>>> 15c721f9af68611d09162107215daecbeeb62fa9
 cd hardhat-fund-me-fcc
 yarn 
 yarn hardhat node
@@ -218,24 +163,6 @@ yarn lint
 ```
 
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 # Thank you!
 
-=======
-=======
->>>>>>> 15c721f9af68611d09162107215daecbeeb62fa9
-=======
->>>>>>> 15c721f9af68611d09162107215daecbeeb62fa9
-=======
-# Nextjs-Lottery
-Decentralized, autonomous Nextjs lottery
->>>>>>> 40b23e731685efb09d0ba5e0f23661d21387a14d
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> 15c721f9af68611d09162107215daecbeeb62fa9
-=======
->>>>>>> 15c721f9af68611d09162107215daecbeeb62fa9
-=======
->>>>>>> 15c721f9af68611d09162107215daecbeeb62fa9
