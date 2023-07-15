@@ -17,7 +17,9 @@ function LotteryEntrance() {
   const dispatch = useNotification()
 
 
-  const { runContractFunction: enterRaffle,  isLoading,  isFetching  } = useWeb3Contract({
+
+  const { runContractFunction:  enterRaffle,  data: enterTxResponse, isLoading,  isFetching  } = useWeb3Contract({
+
     abi: abi,
     contractAddress: raffleAddress, //we need to specify the network
     functionName: "enterRaffle",
@@ -46,8 +48,9 @@ function LotteryEntrance() {
   });
 
   async function updateUIValues() {
-    const entranceFeeFromCall = (await getEntranceFee()).toString();
-    const numPlayersFromCall = (await getNumberOfPlayers()).toString();
+
+    const entranceFeeFromCall = (await getEntranceFee()).toString()
+    const numPlayersFromCall = (await getNumberOfPlayers()).toString()
     const recentWinnerFromCall = await getRecentWinner();
 
     setEntranceFee(entranceFeeFromCall);
@@ -118,5 +121,6 @@ function LotteryEntrance() {
     </div>
   );
 }
+
 
 export default LotteryEntrance;
