@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@babel/core": "^7.22.9",
     "@types/react": "^18.2.14",
     "minimatch": "^9.0.3",
     "moralis": "^1.8.0",
