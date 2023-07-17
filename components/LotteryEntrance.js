@@ -117,7 +117,7 @@ function LotteryEntrance() {
       ) : (
         <div>No Raffle Address Detected</div>
       )}
-      <div></div>
+      <div>Blah Blah Blah</div>
     </div>
   );
 }
